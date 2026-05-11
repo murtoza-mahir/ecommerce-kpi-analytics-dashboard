@@ -65,7 +65,7 @@ This project presents an interactive **E-commerce Sales Performance & KPI Analyt
 ```
 ecommerce-kpi-analytics-dashboard/
 │
-├── Ecommerce_KPI_Analytics_Dashboard.pbix  # Power BI dashboard file
+├── ecommerce-kpi-analytics-dashboard.pbix   # Power BI dashboard file
 ├── preview.png                              # Dashboard screenshot
 └── README.md                                # Project documentation
 ```
